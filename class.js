@@ -1,5 +1,7 @@
-class Student{
-    constructor(sId,sName){
+class Student
+{
+    constructor(sId,sName)
+    {
         this.id =sId;
         this.name=sName;
         this.school="kolimunnesa school"

@@ -22,9 +22,9 @@ const dubleit4  =(num1,num2=0) => num1+num2;
 
 const dubleit5  = (num1 ,num2=0) => {
 
-    const sum = num1 + num2;
-    const diff = num2 -num1;
-    const result = sum * diff;
+    const sum    = num1 + num2;
+    const diff   = num2 - num1;
+    const result = sum  * diff;
 
     return result;
 

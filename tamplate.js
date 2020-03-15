@@ -9,7 +9,7 @@ const fullname2 =`${firstName} ${secondName} is a good boy`;
 
 console.log(fullname2);
 
-const multiple =`hi this a another example of template at 
+const multiple =`hi this a Another example of template at 
 yes it can use multiple line within this 
 Another One `
 

@@ -11,7 +11,7 @@ console.log (allages);
 console.log (allages2);
 console.log(allages3);
 
-const business = 650;
+const business = 350;
 const minister = 450;
 const sochib = 250;
 

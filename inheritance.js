@@ -5,7 +5,6 @@ class parent {
     }
 }
 
-
 class child extends parent 
 {
     constructor(name)
@@ -18,8 +17,6 @@ class child extends parent
         return this.name +" " +this.Fathername;
     }
 }
-
-
 const baby = new child ("Zakaria");
 const baby2 = new child ("Raisa");
 console.log (baby.getFullName());
